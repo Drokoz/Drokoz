@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi
+My name is Tomás Herceg and currently i'm studying Ingenería Civil Informática in Universidad Austral de Chile.
 
 <!--
 **Drokoz/Drokoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
