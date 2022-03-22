@@ -61,7 +61,9 @@ El Colegio Altamira me enseñó sobre inclusión y tolerancia, pude compartir y 
 # Información Adicional
 
 Nacionalidad: Chilena
+
 Rut:19.959.698-5
+
 Idiomas: Espanol, inglés intermedio.
 
 <!--
