@@ -1,6 +1,10 @@
 ## Hi
 My name is Tomás Herceg and currently i'm studying Ingenería Civil Informática in Universidad Austral de Chile.
 
+You can reach me via [mail](mailto:tomas.herceg@alumnos.uach.cl) and [linkedin](https://www.linkedin.com/in/tomas-herceg-edwards/).
+
+My resume is in this [repo](https://github.com/Drokoz/Drokoz/blob/main/Curriculum%20Vitae%20-%20Tom%C3%A1s%20Herceg.md) / Curriculum Vitae - Tomás Herceg.
+
 <!--
 **Drokoz/Drokoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
